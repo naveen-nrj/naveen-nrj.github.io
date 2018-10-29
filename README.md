@@ -1,2 +1,2 @@
 # naveen-nrj.github.io
-Website
+Website (personal)
